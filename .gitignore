@@ -8,3 +8,4 @@
 !*.ipynb
 # Also keep the entire 'commimit' folder (and 'comimit' just in case)
 !comimit/
+!comimit/*
