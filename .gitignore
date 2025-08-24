@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep this file
+!.gitignore
+
+# Keep all Python code anywhere
+!*.py
+
+# Also keep the entire 'commimit' folder (and 'comimit' just in case)
+!comimit/**
+
