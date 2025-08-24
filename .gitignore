@@ -4,9 +4,8 @@
 # Keep this file
 !.gitignore
 
-# Keep all Python code anywhere
 !*.py
-
+!*.ipynb
 # Also keep the entire 'commimit' folder (and 'comimit' just in case)
 !comimit/**
 
